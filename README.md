@@ -1,9 +1,12 @@
 I'm thrilled to share that I've successfully completed a Data Analysis project for AtliQ Hotels, a prestigious luxury hotel chain in India operating across Mumbai, Delhi, Hyderabad, and Bangalore.
 
 Problem Statement:
+
 AtliQ Grands owns multiple five-star hotels across India. They have been in the hospitality industry for the past 20 years. Due to strategic moves from other competitors and ineffective decision-making in management, AtliQ Grands are losing its market share and revenue in the luxury/business hotels category. As a strategic move, the managing director of AtliQ Grands wanted to incorporate “Business and Data Intelligence” to regain their market share and revenue.
 
+
 🎯 Project Goal: 
+
 Our objective was to enhance AtliQ Grands' market share and revenue within the luxury and business hotel segment by implementing data-driven strategies and business intelligence solutions.
 
 
@@ -18,7 +21,9 @@ The project, executed in Python using Pandas within Jupyter Notebook and also us
 • Analysis Insights: Extracting actionable insights to drive business decisions.
 
 
+
 Key Metrices:
+
 •	ADR (Average Daily Rate): The average revenue earned per room sold in a given time period. 
 
 •	DBRN (Daily Booking Room Nights): The average number of rooms are booked for a day considering a time period
@@ -55,9 +60,13 @@ Insights
 •	RevPAR is Highest for Mumbai And Lowest for Hyderabad.
 
 
+
 [Python file](https://github.com/Janaki6/Hospitality-Project-Analysis/blob/main/Hospitality_project.pdf)
 
+
+
 PowerBI Analysis
+
 
 ![image](https://github.com/user-attachments/assets/e732bd45-1df6-42d5-a1ef-d094b706575b)
 
