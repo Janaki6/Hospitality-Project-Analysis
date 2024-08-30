@@ -10,6 +10,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 Our objective was to enhance AtliQ Grands' market share and revenue within the luxury and business hotel segment by implementing data-driven strategies and business intelligence solutions.
 
 
+
 The project, executed in Python using Pandas within Jupyter Notebook and also using PowerBI, followed a structured approach:
 
 • Data Import and Exploration: Understanding the dataset's structure and content.
@@ -19,6 +20,7 @@ The project, executed in Python using Pandas within Jupyter Notebook and also us
 • Data Transformation: Preparing the data for analysis.
 
 • Analysis Insights: Extracting actionable insights to drive business decisions.
+
 
 
 
@@ -35,6 +37,8 @@ Key Metrices:
 •	RevPAR (Revenue Per Available Room): The revenue generated per available room, regardless of whether it is occupied. 
 
 •	Realization %: The percentage of successful check-outs compared to the total number of bookings made. 
+
+
 
 
 Insights
