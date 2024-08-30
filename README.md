@@ -55,7 +55,7 @@ Insights
 •	RevPAR is Highest for Mumbai And Lowest for Hyderabad.
 
 
-{Python file](https://github.com/Janaki6/Hospitality-Project-Analysis/blob/main/Hospitality_project.pdf)
+[Python file](https://github.com/Janaki6/Hospitality-Project-Analysis/blob/main/Hospitality_project.pdf)
 
 PowerBI Analysis
 
