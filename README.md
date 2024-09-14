@@ -78,6 +78,6 @@ The project, executed in **Python** using Pandas within Jupyter Notebook and als
 ![image](https://github.com/user-attachments/assets/41518130-d89f-4211-a5f2-ca437b526479)
 
 
-[Project live link](https://app.powerbi.com/groups/me/reports/ee78f9b9-8c51-41c7-87ee-11ec3e8a34cb/7c7af39a3ac82dc51d2e?experience=power-bi)
+[Project live link]([https://app.powerbi.com/groups/me/reports/ee78f9b9-8c51-41c7-87ee-11ec3e8a34cb/7c7af39a3ac82dc51d2e?experience=power-bi](https://app.powerbi.com/view?r=eyJrIjoiOTY1ZDhjY2ItMTM2MC00ZGQ1LWI0ZjItZjg1YWM5ZWMxNTU0IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9))
 
 
